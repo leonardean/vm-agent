@@ -1,0 +1,19 @@
+{
+	"kiiAppID": "kys0vcwrike5",
+	"kiiAppURL": "https://api-staging-saus.internal.kii.com/api",
+	"kiiAppKey": "f7d187cf615349e5b63c2cc0d333b3b6",
+	"kiiVendorThingID": "svnow1",
+	"kiiThingPassword": "123ABC",
+	"rootDir": "C:\\SVNow\\kii\\",
+	"logPath": "C:\\SVNow\\Logs\\",
+	"version": "0.0.1a",
+	"lastPingTimeMillis": 0,
+	"vendingConfigPath": "C:\\SVNow\\Config\\machine.json",
+	"updateMachineConfig": true,
+	"updateIntervalMillis": {
+		"version": 3600000,
+		"upload": 60000,
+		"agentConfig": 3600000,
+		"ping": 60000
+	}
+}

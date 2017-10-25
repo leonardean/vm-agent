@@ -1,0 +1,19 @@
+{
+    "kiiAppID": "18734cf8",
+    "kiiAppKey": "e4dde5c3021e08fcae4706f9757ac97a",
+    "kiiAppURL": "https://api-staging-saus.internal.kii.com/api",
+    "kiiVendorThingID": "e3a8611fff6c1",
+    "kiiThingPassword": "123ABC",
+    "rootDir": "C:\\PizzaBox\\kii\\",
+    "logPath": "C:\\PizzaBox\\Logs\\",
+    "version": "0.0.1a",
+    "lastPingTimeMillis": 0,
+    "vendingConfigPath": "C:\\PizzaBox\\Config\\machine.json",
+    "updateMachineConfig": false,
+    "updateIntervalMillis": {
+        "version": 3600000,
+        "upload": 60000,
+        "agentConfig": 3600000,
+        "ping": 60000
+    }
+}

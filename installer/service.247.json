@@ -1,0 +1,11 @@
+{
+    "uid": "kii",
+    "append": true,
+    "watch": false,
+    "script": "main.js",
+    "sourceDir": "C:\\PizzaBox\\kii\\agent\\",
+    "workingDir": "C:\\PizzaBox\\kii\\agent\\",
+    "LOGFILE": "C:\\PizzaBox\\kii\\logs\\debug.log",
+    "OUTFILE": "C:\\PizzaBox\\kii\\logs\\output.log",
+    "ERRFILE": "C:\\PizzaBox\\kii\\logs\\error.log"
+}

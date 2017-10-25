@@ -1,0 +1,20 @@
+{
+	"kiiAppKey": "c833f0ab332042b4a38551829ae0a81a",
+	"rootDir": "/Users/leonardean/Desktop/vendingMachine/kii/",
+	"updateMachineConfig": true,
+	"version": "0.0.1a",
+	"updateIntervalMillis": {
+		"upload": 60000,
+		"ping": 60000,
+		"agentConfig": 3600000,
+		"version": 3600000
+	},
+	"kiiAppID": "c6aoxgdt1xtx",
+	"kiiAppURL": "https://api-staging-cn3.internal.kii.com/api",
+	"logPath": "/Users/leonardean/Desktop/vendingMachine/logs/",
+	"kiiVendorThingID": "NEC1000000",
+	"lastPingTimeMillis": 1508315339000,
+	"vendingConfigPath": "/Users/USER/Documents/Git/vm_agent/vm_config/machine.json",
+	"kiiThingPassword": "123ABC",
+	"uniqueDeviceIdentifier": "A15A8540-A77A-48F7-7ADA-8D1F7841DD84"
+}

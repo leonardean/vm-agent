@@ -1,0 +1,44 @@
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":0,"cost":5,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":4,"cost":5,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":3,"cost":3,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":3,"cost":3,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":3,"cost":3,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":7,"occurred":"2017-10-12T10:00:28.761Z","metaData":{"remaining":2,"cost":3,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister3" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:28.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:29.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:30.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:31.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:32.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:33.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:33.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T08:28:34.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":1005,"occurred":"2017-10-13T10:31:29.528Z","metaData":{"status":"OPEN"}}
+{"code":2000,"occurred":"2017-10-13T10:31:30.528Z","metaData":{"status":"OPEN"}}
+{"code":1005,"occurred":"2017-10-13T10:32:29.528Z","metaData":{"status":"FIXED"}}
+{"code":2000,"occurred":"2017-10-13T10:31:30.528Z","metaData":{"status":"FIXED"}}
+{"code":2000,"occurred":"2017-10-13T10:32:30.528Z","metaData":{"status":"OPEN"}}
+{"code":10005, "occurred":"2017-10-13T11:28:34.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T11:29:34.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":7,"occurred":"2017-10-13T11:30:28.761Z","metaData":{"remaining":0,"cost":5,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":10005, "occurred":"2017-10-13T11:30:34.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":10005, "occurred":"2017-10-13T11:30:35.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":7,"occurred":"2017-10-13T11:32:28.761Z","metaData":{"remaining":0,"cost":5,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":10005, "occurred":"2017-10-13T11:31:35.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}
+{"code":7,"occurred":"2017-10-13T11:33:28.761Z","metaData":{"remaining":0,"cost":5,"productId":"PR-bd7444a6-84cf-3cbc-bd84-49822aa64765","locationId":"canister1","paymentType":"Cash"}}
+{"code":10005, "occurred":"2017-10-13T11:33:35.761Z", "metaData":{"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765", "productsTotal":5, "locationId":"canister1" }}

@@ -1,0 +1,35 @@
+{
+	"products": [
+		{
+			"productType": "Ice Black",
+			"productCookingTime": 180,
+			"productId": "PR-bd7444a6-84cf-3cbc-bd84-49822aa64765",
+			"cost": 3
+		},
+		{
+			"productType": "Cappuccino",
+			"productCookingTime": 180,
+			"productId": "PR-c3a4bf7e-3d7a-4af5-42fd-4fea005a6a1a",
+			"cost": 3
+		}
+	],
+	"productPlacements": [
+		{
+			"productType": "Ice Black",
+			"quantity": 5,
+			"placementId": "canister2"
+		},
+		{
+			"productType": "Ice Black",
+			"quantity": 5,
+			"placementId": "canister1"
+		},
+		{
+			"productType": "Cappuccino",
+			"quantity": 5,
+			"placementId": "canister3"
+		}
+	],
+	"metaInfo": {},
+	"currentTimeDTMillis": 1507901690000
+}

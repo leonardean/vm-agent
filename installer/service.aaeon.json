@@ -1,0 +1,11 @@
+{
+    "uid": "kii",
+    "append": true,
+    "watch": false,
+    "script": "main.js",
+    "sourceDir": "C:\\SVNow\\kii\\agent\\",
+    "workingDir": "C:\\SVNow\\kii\\agent\\",
+    "LOGFILE": "C:\\SVNow\\kii\\logs\\debug.log",
+    "OUTFILE": "C:\\SVNow\\kii\\logs\\output.log",
+    "ERRFILE": "C:\\SVNow\\kii\\logs\\error.log"
+}
